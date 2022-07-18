@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nama": "sukma",
+      "alamat": "jakarta",
+      "umur": 38,
+      "nohp": "087781331273"
+    },
+    {
+      "id": 2,
+      "nama": "noviansyah",
+      "alamat": "bogor",
+      "umur": 38,
+      "nohp": "087781231272"
+    },
+    {
+      "id": 3,
+      "nama": "kenyol",
+      "alamat": "bandung",
+      "umur": 38,
+      "nohp": "087791341323"
+    },
+    {
+      "id": 1,
+      "nama": "sukma",
+      "alamat": "jakarta",
+      "umur": 38,
+      "nohp": "087781331273"
+    },
+    {
+      "id": 2,
+      "nama": "noviansyah",
+      "alamat": "bogor",
+      "umur": 38,
+      "nohp": "087781231272"
+    },
+    {
+      "id": 3,
+      "nama": "kenyol",
+      "alamat": "bandung",
+      "umur": 38,
+      "nohp": "087791341323"
+    },
+    {
+      "id": 1,
+      "nama": "sukma",
+      "alamat": "jakarta",
+      "umur": 38,
+      "nohp": "087781331273"
+    },
+    {
+      "id": 2,
+      "nama": "noviansyah",
+      "alamat": "bogor",
+      "umur": 38,
+      "nohp": "087781231272"
+    },
+    {
+      "id": 3,
+      "nama": "kenyol",
+      "alamat": "bandung",
+      "umur": 38,
+      "nohp": "087791341323"
+    },
+    {
+      "id": 1,
+      "nama": "sukma",
+      "alamat": "jakarta",
+      "umur": 38,
+      "nohp": "087781331273"
+    },
+    {
+      "id": 2,
+      "nama": "noviansyah",
+      "alamat": "bogor",
+      "umur": 38,
+      "nohp": "087781231272"
+    },
+    {
+      "id": 3,
+      "nama": "kenyol",
+      "alamat": "bandung",
+      "umur": 38,
+      "nohp": "087791341323"
+    },
+    {
+      "id": 1,
+      "nama": "sukma",
+      "alamat": "jakarta",
+      "umur": 38,
+      "nohp": "087781331273"
+    },
+    {
+      "id": 2,
+      "nama": "noviansyah",
+      "alamat": "bogor",
+      "umur": 38,
+      "nohp": "087781231272"
+    },
+    {
+      "id": 3,
+      "nama": "kenyol",
+      "alamat": "bandung",
+      "umur": 38,
+      "nohp": "087791341323"
+    }
+  ]
+}
